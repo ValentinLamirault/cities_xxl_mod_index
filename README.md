@@ -7,6 +7,6 @@ Ce projet est là, pour que vous puissiez contribuer facilement à l'index des m
 
 L'idée étant que les descriptions, les titres, les auteurs et la catégorisation puissent être améliorées par la communauté n'ayant moi même pas suffisament de temps à consacrer à cet index. 
 
-https://youtu.be/4CYpMmPxGFw
+Explication vidéo : https://youtu.be/4CYpMmPxGFw
 
 En discuter sur Génération City : https://www.forum-gc.com/t7454-telecharger-des-mods-pour-cities-xxl-en-2026#300407
